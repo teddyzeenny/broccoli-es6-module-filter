@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "es6-module-transpiler": "git://github.com/rpflorence/es6-module-transpiler#broccoli",
-    "broccoli-filter": "0.1.0",
+    "broccoli-filter": "0.1.5",
     "extend": "~1.2.1"
   },
   "devDependencies": {
