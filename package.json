@@ -18,7 +18,7 @@
     "commonjs"
   ],
   "dependencies": {
-    "es6-module-transpiler": "git://github.com/rpflorence/es6-module-transpiler#broccoli",
+    "es6-module-transpiler": "^0.3.6",
     "broccoli-filter": "0.1.5",
     "extend": "~1.2.1"
   },
